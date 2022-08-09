@@ -59,7 +59,7 @@ Verifying the data in PgAdmin
 
 Movies Query
 
-![dev4_pgadmin](https://github.com/acegal1/Movies-ETL/blob/main/images/dev4_pgadmin.png)
+![dev4_movies](https://github.com/acegal1/Movies-ETL/blob/main/images/dev4_movies.png)
 
 Ratings Query
 
