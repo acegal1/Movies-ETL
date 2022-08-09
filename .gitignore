@@ -1,7 +1,12 @@
 # Adding config.py file and other files 
-#movies.metadata.csv
-#ratings.csv
-#wikipedia-movies.json
+ETL_function_test.ipynb
+ETL_clean_wiki_movies.ipynb
+ETL_clean_kaggle_data.ipynb
+ETL_create_database.ipynb
+config.py
+ratings.csv
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
